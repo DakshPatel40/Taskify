@@ -4,6 +4,18 @@
 
 ---
 
+## 📦 Download Taskify APK
+
+Try out the app without cloning or building — just click below:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/DakshPatel40/Taskify/releases/download/v1.0.0/app-debug.apk)
+
+OR
+
+[click here to download the APK directly](https://github.com/DakshPatel40/Taskify/releases/download/v1.0.0/app-debug.apk).
+
+---
+
 ## ⚙️ Features
 
 - ✅ Add, Edit, and Delete Tasks
