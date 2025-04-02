@@ -71,13 +71,6 @@ OR
 ---
 
 
-## 📦 APK (Debug)
-
-Path:  
-`/app/build/outputs/apk/debug/app-debug.apk`
-
----
-
 ## 👤 Author
 
 **Daksh Faldu**  
