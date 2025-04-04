@@ -1,8 +1,21 @@
 # 📋 Taskify - Advanced Jetpack Compose To-Do App
 
+![GitHub license](https://img.shields.io/github/license/DakshPatel40/Taskify)
+![Platform](https://img.shields.io/badge/platform-Android-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%F0%9F%92%9A-blue)
+![Kotlin](https://img.shields.io/badge/language-Kotlin-orange)
+![Status](https://img.shields.io/badge/status-Production-brightgreen)
+
 **Taskify** is a powerful and modern To-Do list app built using Jetpack Compose and MVVM architecture. It focuses on intuitive interactions and clean UI while being fully open-source and developer-friendly.
 
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
 
 ## 📦 Download Taskify APK
 
